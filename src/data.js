@@ -23,7 +23,7 @@ export const initialData = {
           {
             id: '3',
             title: 'Test Website Functionality',
-            description: 'Conduct thorough testing of the functionality of the Apartment Web Portal.'
+            description: 'Testing of the functionality of the Apartment Web Portal.'
           },
         ],
       },
